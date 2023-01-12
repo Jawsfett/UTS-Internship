@@ -15,11 +15,11 @@ Links to relevant sources:
 
 *What is CI CD VB (2022) What is CI/CD VB.* Available at: https://www.redhat.com/en/topics/devops/what-is-ci-cd
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Accessed: January 11, 2023).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Accessed: January 12, 2023).
 
 Sanie, M. (2023) *Top CI/CD tools: The most complete guide with 34 best picks for devops source, Cprime.* Available at: https://www.cprime.com/resources/blog/top-ci-cd-tools-the-most-complete-guide-with-34-best-picks-for-devops-source/ 
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Accessed: January 11, 2023). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Accessed: January 12, 2023). 
 
 Katalon (2023) *14 best CI/CD Pipeline Tools &amp; Frameworks: List for 2023, katalon.com. Katalon.* Available at: https://katalon.com/resources-center/blog/ci-cd-tools 
 </br>
